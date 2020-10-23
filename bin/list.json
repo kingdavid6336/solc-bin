@@ -11281,6 +11281,18 @@
         "bzzr://702c6bf94fd7bd61cdbac435b0e7c486333b44be9d9cde75fc72fddecae1b276",
         "dweb:/ipfs/QmZRLvXQiJuiXRUaaQA2M2MLeRjxcgKKnXT91m7nvSXE1Z"
       ]
+    },
+    {
+      "path": "soljson-v0.7.5-nightly.2020.10.22+commit.95c521a3.js",
+      "version": "0.7.5",
+      "prerelease": "nightly.2020.10.22",
+      "build": "commit.95c521a3",
+      "longVersion": "0.7.5-nightly.2020.10.22+commit.95c521a3",
+      "keccak256": "0x4b7e1ab6c2dc98f0f3f44143ce06db67d9a1272c3eb0f9f8a337724fd1ef3d2b",
+      "urls": [
+        "bzzr://cfbb9bc23d342a18ffbd2afb28808b013319133d3a348139b9ba697c11de7227",
+        "dweb:/ipfs/QmWD6TnqVqq3dVXceGXwwrehdSDVJXba3Qhkxxwspf5Rq2"
+      ]
     }
   ],
   "releases": {

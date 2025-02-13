@@ -22109,6 +22109,18 @@
       "urls": [
         "dweb:/ipfs/QmadFcUjvw2vdweJEYaPpHh3ryEk7d4fNr7JQN2osXfsPh"
       ]
+    },
+    {
+      "path": "soljson-v0.8.29-nightly.2025.2.12+commit.cfd32a3f.js",
+      "version": "0.8.29",
+      "prerelease": "nightly.2025.2.12",
+      "build": "commit.cfd32a3f",
+      "longVersion": "0.8.29-nightly.2025.2.12+commit.cfd32a3f",
+      "keccak256": "0x43b3e7ed62e207b260cd818d94bc2c1e5963cf697c8316bcdce00e22bf11f223",
+      "sha256": "0x2eb3f7d9940ad3da1a0c6bc1ee631aef181e4e0279bd058ac97cbedd88677f38",
+      "urls": [
+        "dweb:/ipfs/QmRjTV73WvnEdG5c69eSfagGgkuYkrYXwzHeFS9kHUwxe8"
+      ]
     }
   ],
   "releases": {
